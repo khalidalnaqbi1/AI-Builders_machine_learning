@@ -1,0 +1,11 @@
+# Virtual environment
+.myvenv/
+.venv/
+venv/
+
+# Jupyter / Python caches
+.ipynb_checkpoints/
+__pycache__/
+
+# Too large for GitHub (>100 MB)
+telo_customer_MonthlyCharges.joblib
